@@ -475,9 +475,9 @@ const alertsData = [
 ];
 
 const aiTexts = [
-  `En <strong>julio 2025</strong> registraste tu <span class="highlight">mejor mes del año con $184,320 en ventas</span> — un crecimiento del 18.4% respecto a junio. El motor principal fue el Producto A Premium, que representó el 28% del ingreso total.`,
+  `En <strong>julio 2025</strong> registraste tu mejor mes del año con $184,320 en ventas — un crecimiento del 18.4% respecto a junio. El motor principal fue el Producto A Premium, que representó el 28% del ingreso total.`,
 
-  `La <span class="warn-text">tasa de conversión bajó levemente a 3.8%</span> (desde 4.2% en junio), lo que indica una oportunidad en el proceso de checkout. Con el volumen actual de visitas, recuperar solo 0.5 puntos porcentuales equivale a <strong>~$24,000 adicionales por mes</strong>.`,
+  `La tasa de conversión bajó levemente a 3.8% (desde 4.2% en junio), lo que indica una oportunidad en el proceso de checkout. Con el volumen actual de visitas, recuperar solo 0.5 puntos porcentuales equivale a <strong>~$24,000 adicionales por mes</strong>.`,
 
   `Recomendación IA: <strong>enfocá el presupuesto en los canales que ya convierten bien</strong> (directo y redes sociales), y revisá el flujo de checkout para reducir el abandono. El trimestre pinta muy bien si se mantiene la tendencia.`
 ];
